@@ -1,6 +1,6 @@
 # Enhancing Value Function Estimation through First-Order State-Action Dynamics in Offline Reinforcement Learning
 
-This repo is the official implementations of [Enhancing Value Function Estimation through First-Order State-Action Dynamics in Offline Reinforcement Learning](https://openreview.net/forum?id=nSGnx8lNJ6). International Conference on Machine Learning (ICML) 2024.
+This repo is the official implementations of [Enhancing Value Function Estimation through First-Order State-Action Dynamics in Offline Reinforcement Learning](https://github.com/sophialien/DifferentiableOfflineRL/blob/main/%5Bpaper%5D%20Enhancing%20Value%20Function%20Estimation.pdf). International Conference on Machine Learning (ICML) 2024.
 
 Authors: Yun-Hsuan Lien, Ping-Chun Hsieh, Tzu-Mao Li, Yu-Shuen Wang
 
